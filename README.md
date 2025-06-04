@@ -24,8 +24,11 @@ Lastly, use control flow to compare the user's choice and the computer's choice,
 
 The output should look something like this:
 
+
 ===================
+
 Rock Paper Scissors
+
 ===================
 
 1) ✊
@@ -67,7 +70,9 @@ Use '🖖' for "Spock" and '🦎' for "Lizard".
 The output should look something like this:
 
 ================================
+
 Rock Paper Scissors Lizard Spock
+
 ================================
 
 1) ✊
